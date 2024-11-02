@@ -7,7 +7,7 @@ import MoviesSectionLoading from '@/components/movies-section/loading'
 function Loading() {
   return (
     <div>
-
+        <FeatureMovieLoading />
         <CategoriesLoading />
         <MoviesSectionLoading />
         <MoviesSectionLoading />
